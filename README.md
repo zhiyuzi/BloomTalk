@@ -4,6 +4,8 @@
 
 **一个可运行的 Agent Runtime 孕期胎教支持系统，把胎教安排、每日记录和持续陪伴放进同一套流程里。**
 
+[English](./README.en.md) | [中文](./README.md)
+
 <p>
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-9b7b6b">
   <img alt="Runtime: Codex" src="https://img.shields.io/badge/runtime-Codex-c98f65">
