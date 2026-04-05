@@ -2,7 +2,7 @@
 
 # 孕语 Bloom Talk
 
-**把胎教安排、每日记录和持续陪伴放进同一套流程里的孕期支持系统。**
+**一个可运行的 Agent Runtime 孕期胎教支持系统，把胎教安排、每日记录和持续陪伴放进同一套流程里。**
 
 <p>
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-9b7b6b">
@@ -55,7 +55,7 @@
 
 这个项目默认按 Codex 使用。
 
-如果你准备在其他工具里打开它，先完成对应迁移，再进入编辑器：
+如果你准备在其他工具里打开它，先让目标环境里的 agent 读取对应迁移文档并代你完成迁移，再进入编辑器：
 
 - [ClaudeCode 迁移说明](./migration/ClaudeCode.md)
 - [OpenClaw 迁移说明](./migration/OpenClaw.md)
